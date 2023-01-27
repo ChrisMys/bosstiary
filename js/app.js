@@ -126,7 +126,7 @@ jQuery(document).ready(function () {
   $("#world-select").change(function () {
 
     // var url = "https://chrismys.github.io/bosstiary/?world=" + $(this).val();
-    var url = "http://127.0.0.1:5500/?world=" + $(this).val();
+    var url = "https://chrismys.github.io/bosstiary/?world=" + $(this).val();
 
     if (url) {
 
